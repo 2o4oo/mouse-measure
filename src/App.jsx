@@ -30,7 +30,7 @@ function App() {
     <>
       <main>
         <div className="indicator">
-          <h2><span>Mouscale.</span></h2>
+          <h2><span>mouse-measure</span></h2>
           <p className='splitsection titlemargin'>
             Turns your ordinary mouse to a tape measure.
           </p>
