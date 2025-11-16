@@ -59,7 +59,7 @@ function App() {
             How to use
           </p>
           <p className='notice'>
-            Turn the mouse upside down and roll it with the wheel touching the object to be measured.
+            Turn your mouse upside down and roll it with the wheel touching the object to be measured.
           </p>
           <p className='notice splitsection'>
             Also, you can reset measurements by right click.
